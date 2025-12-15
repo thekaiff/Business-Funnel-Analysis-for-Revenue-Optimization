@@ -1,0 +1,14 @@
+Olist is an e-commerce platform that connects small business to major marketplaces in brazil.
+However, many potential customers drop off various stages of the sales funnel, leading to lost revenue opportunities.
+
+The goal of this project is to analyze the Olist sales funnel, identifying bottlenecks where leads drop off,
+and provide insights tp optimize conversion rates.
+
+By leveraging Python we will visualize the sales pipeline, track key metrics, suggest data-driven
+strategies to improve customer acquisition and sales performance.
+
+Project Objective:
+Analyze the end-to-end sales funnel for Olist—from marketing leads to order delivery—to identify conversion gaps, 
+performance drivers, and operational bottlenecks.
+
+
